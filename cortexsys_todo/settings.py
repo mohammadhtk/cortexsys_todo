@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'pytest',
     # my apps
     'accounts.apps.AccountsConfig',
+    'tasks.apps.TasksConfig',
 
 ]
 
